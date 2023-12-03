@@ -1,0 +1,2 @@
+Hey Hi Welcome to  Git 
+Its file 1
